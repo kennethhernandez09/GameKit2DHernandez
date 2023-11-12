@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Game Project.unity
     guid: 97e492bd58f79344d88cd068bbeb6268
+  - enabled: 1
+    path: Assets/MyLevel.unity
+    guid: 83acadf442506544b87af554b8a40e8a
   m_configObjects: {}
